@@ -13,7 +13,7 @@ Jueves 8 de febrero de 2024, 5 p.m. (CDMX)
 
 - M.C. Verónica Jiménez Jacinto
 
-Verónica cursó la licenciatura en Matemáticas Aplicadas y computación en la FES Acatlán, UNAM de la cual se graduó en 1992. Posteriormente en el año 1995 obtuvo el grado Maestra en Ciencias por el CINVESTAV unidad Zacatenco, México. Desde el 2017 cuenta con la certificación software Carpentry para impartir clases de computación a científicos. Ha colaborado desde su creación en la Unidad Universitaria de Secuenciación Masiva y Bioinformática, con sede en el Instituto de Biotecnología de la UNAM, Instituto en el cual colaborado desde el año 2005 con la licenciatura en Ciencias Genómicas de la UNAM. Es la responsable del Sistema de Gestión de Calidad del Laboratorio Nacional de Apoyo Tecnológico a las Ciencias Genómicas. Es fundadora y co-organizadora de R-Ladies Cuernavaca, parte de Rladies Global, que es una organización que promueve la diversidad de Género en la Comunidad de desarrolladores y desarrolladoras en el lenguaje de programación R.
+Verónica cursó la licenciatura en Matemáticas Aplicadas y computación en la FES Acatlán, UNAM de la cual se graduó en 1992. Posteriormente en el año 1995 obtuvo el grado Maestra en Ciencias por el CINVESTAV unidad Zacatenco, México. Desde el 2017 cuenta con la certificación software Carpentry para impartir clases de computación a científicos, y en 2023 obtuvo la certificación de 'trainer training'. Ha colaborado desde su creación en la Unidad Universitaria de Secuenciación Masiva y Bioinformática, con sede en el Instituto de Biotecnología de la UNAM, tambien ha colaborado desde su creación con la licenciatura en Ciencias Genómicas de la UNAM. Es la responsable del Sistema de Gestión de Calidad del Laboratorio Nacional de Apoyo Tecnológico a las Ciencias Genómicas. Es fundadora y co-organizadora de R-Ladies Cuernavaca, parte de Rladies Global, que es una organización que promueve la diversidad de Género en la Comunidad de desarrolladores y desarrolladoras en el lenguaje de programación R. Su sueño es que el conjunto de las mujeres que quieren ser mamás y el conjunto de las que quieren hacer ciencia,  no sean conjuntos disjuntos. 
 
 
 ## Materiales
@@ -31,9 +31,11 @@ Para aprovechar al máximo esta reunión es importante que estén familiarizados
 
 + R >=4.0 y RStudio
 
-+ Paquetes de R: readxl y tidyverse, los cuades puedes instalar con la instrucción:
++ Paquetes de R: readxl, writexl y tidyverse, los cuales puedes instalar con la instrucción:
 
 `install.packages("tidyverse", dependencies = TRUE)`
+
+`install.packages("writexl", dependencies = TRUE)`
 
 
 ## Código de Conducta
