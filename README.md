@@ -31,7 +31,7 @@ Para aprovechar al máximo esta reunión es importante que estén familiarizados
 
 + R >=4.0 y RStudio
 
-+ Paquetes de R: ggpubr, tidyverse y rstatix, los cuades puedes instalar con la instrucción:
++ Paquetes de R: readxl y tidyverse, los cuades puedes instalar con la instrucción:
 
 `install.packages("tidyverse", dependencies = TRUE)`
 
